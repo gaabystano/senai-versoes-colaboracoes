@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 gabriela
+=======
+>>>>>>> parent of 8ab5a79 (Update Novo Documento de Texto.txt)
